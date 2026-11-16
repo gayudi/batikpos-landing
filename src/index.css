@@ -11,5 +11,5 @@ button{cursor:pointer}
 button:focus-visible,a:focus-visible{outline:3px solid #3e7667;outline-offset:5px}
 ::selection{background:#e8c1ad;color:#372a22}
 h1,h2,h3,p{margin:0}
-img{max-width:100%;display:block}
+img{max-width:100%;height:auto;display:block}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}}
